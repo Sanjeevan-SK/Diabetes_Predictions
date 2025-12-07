@@ -3,5 +3,4 @@ pandas
 numpy
 scikit-learn
 joblib
-python-telegram-bot
-sqlite3-binary
+python-telegram-bot==20.3
