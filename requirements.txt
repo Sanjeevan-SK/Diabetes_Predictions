@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+python-telegram-bot
+sqlite3-binary
